@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonParse</string>
+    <string name="login_expired">Login Expire</string>
+    <string name="login_again">Login Again</string>
+    <string name="ok">OK</string>
+    <string name="success">Success</string>
+</resources>
